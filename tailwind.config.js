@@ -3,6 +3,17 @@ module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
+      fontFamily: {
+        sans: [
+          "-apple-system",
+          "BlinkMacSystemFont",
+          "San Francisco",
+          "SF Pro Text",
+          "SF Pro Display",
+          "system-ui",
+          "sans-serif",
+        ],
+      },
       animation: {
         "fade-in-up": "fadeInUp 0.5s ease-out",
       },
