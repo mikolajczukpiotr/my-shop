@@ -123,7 +123,7 @@ This project is configured for deployment to GitHub Pages:
 
 1. Update the `homepage` field in `package.json` with your GitHub username:
    ```json
-   "homepage": "https://YOUR_USERNAME.github.io/myshop"
+   "homepage": "https://YOUR_USERNAME.github.io/my-shop"
    ```
 
 2. Deploy the application:
@@ -131,7 +131,7 @@ This project is configured for deployment to GitHub Pages:
    npm run deploy
    ```
 
-3. Once deployed, your application will be available at `https://YOUR_USERNAME.github.io/myshop`
+3. Once deployed, your application will be available at `https://YOUR_USERNAME.github.io/my-shop`
 
 ## Acknowledgments
 
